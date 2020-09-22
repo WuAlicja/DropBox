@@ -1,0 +1,785 @@
+"2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24664 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 557 ms
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.014 seconds (JVM running for 1.671)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24671 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 578 ms
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.036 seconds (JVM running for 1.472)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24679 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 586 ms
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.054 seconds (JVM running for 1.712)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24716 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 779 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.382 seconds (JVM running for 2.064)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24719 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1041 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path to files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.653 seconds (JVM running for 2.144)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24723 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 579 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path to files
+""2020-09-10 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'localFileService' defined in file [/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes/com/alicjawaclawek/dropboxld/service/LocalFileService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.alicjawaclawek.dropboxld.service.LocalFileService]: Constructor threw exception; nested exception is java.lang.NullPointerException
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+""2020-09-10 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+"org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'localFileService' defined in file [/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes/com/alicjawaclawek/dropboxld/service/LocalFileService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.alicjawaclawek.dropboxld.service.LocalFileService]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1318)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1213)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:556)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.alicjawaclawek.dropboxld.DropboxldApplication.main(DropboxldApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.alicjawaclawek.dropboxld.service.LocalFileService]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:217)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1310)
+	... 23 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at java.base/sun.nio.fs.UnixPath.normalizeAndCheck(UnixPath.java:75)
+	at java.base/sun.nio.fs.UnixPath.<init>(UnixPath.java:69)
+	at java.base/sun.nio.fs.UnixFileSystem.getPath(UnixFileSystem.java:279)
+	at java.base/java.nio.file.Path.of(Path.java:147)
+	at java.base/java.nio.file.Paths.get(Paths.java:69)
+	at com.alicjawaclawek.dropboxld.service.LocalFileService.createContextDirectory(LocalFileService.java:34)
+	at com.alicjawaclawek.dropboxld.service.LocalFileService.<init>(LocalFileService.java:24)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:204)
+	... 25 common frames omitted
+"2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24728 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 531 ms
+""2020-09-10 [restartedMain] INFO  c.a.d.service.LocalFileService - Try to create directory: /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/dropbox-app/files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 0.98 seconds (JVM running for 1.573)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24781 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 612 ms
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.088 seconds (JVM running for 1.806)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24929 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 630 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path to files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.145 seconds (JVM running for 1.782)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24948 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 705 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path to files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.256 seconds (JVM running for 1.99)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24956 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 681 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path to files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.183 seconds (JVM running for 1.704)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24959 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 575 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path to files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.012 seconds (JVM running for 1.509)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24964 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 666 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path to files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.177 seconds (JVM running for 1.677)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24968 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 649 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path to files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.175 seconds (JVM running for 1.674)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24977 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 580 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path to files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.068 seconds (JVM running for 1.666)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24990 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 598 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path to files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.131 seconds (JVM running for 1.663)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24994 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 606 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path to files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.126 seconds (JVM running for 1.74)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24997 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.alicjawaclawek.dropboxld.DropboxldApplication]; nested exception is java.io.FileNotFoundException: class path resource [Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/src/main/resources/application.properties] cannot be opened because it does not exist
+""2020-09-10 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+"org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.alicjawaclawek.dropboxld.DropboxldApplication]; nested exception is java.io.FileNotFoundException: class path resource [Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/src/main/resources/application.properties] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:188)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:319)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:236)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:280)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:96)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:707)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:533)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.alicjawaclawek.dropboxld.DropboxldApplication.main(DropboxldApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.io.FileNotFoundException: class path resource [Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/src/main/resources/application.properties] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:180)
+	at org.springframework.core.io.support.EncodedResource.getInputStream(EncodedResource.java:159)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:99)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:73)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.loadProperties(PropertiesLoaderUtils.java:59)
+	at org.springframework.core.io.support.ResourcePropertySource.<init>(ResourcePropertySource.java:67)
+	at org.springframework.core.io.support.DefaultPropertySourceFactory.createPropertySource(DefaultPropertySourceFactory.java:37)
+	at org.springframework.context.annotation.ConfigurationClassParser.processPropertySource(ConfigurationClassParser.java:462)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:279)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:198)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:303)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:206)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:174)
+	... 19 common frames omitted
+"2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 24999 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.alicjawaclawek.dropboxld.DropboxldApplication]; nested exception is java.io.FileNotFoundException: class path resource [Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/src/main/resources/config.properties] cannot be opened because it does not exist
+""2020-09-10 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+"org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.alicjawaclawek.dropboxld.DropboxldApplication]; nested exception is java.io.FileNotFoundException: class path resource [Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/src/main/resources/config.properties] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:188)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:319)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:236)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:280)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:96)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:707)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:533)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.alicjawaclawek.dropboxld.DropboxldApplication.main(DropboxldApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.io.FileNotFoundException: class path resource [Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/src/main/resources/config.properties] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:180)
+	at org.springframework.core.io.support.EncodedResource.getInputStream(EncodedResource.java:159)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:99)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:73)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.loadProperties(PropertiesLoaderUtils.java:59)
+	at org.springframework.core.io.support.ResourcePropertySource.<init>(ResourcePropertySource.java:67)
+	at org.springframework.core.io.support.DefaultPropertySourceFactory.createPropertySource(DefaultPropertySourceFactory.java:37)
+	at org.springframework.context.annotation.ConfigurationClassParser.processPropertySource(ConfigurationClassParser.java:462)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:279)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:198)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:303)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:206)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:174)
+	... 19 common frames omitted
+"2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 25001 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.alicjawaclawek.dropboxld.DropboxldApplication]; nested exception is java.io.FileNotFoundException: class path resource [src/main/resources/config.properties] cannot be opened because it does not exist
+""2020-09-10 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+"org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.alicjawaclawek.dropboxld.DropboxldApplication]; nested exception is java.io.FileNotFoundException: class path resource [src/main/resources/config.properties] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:188)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:319)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:236)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:280)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:96)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:707)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:533)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.alicjawaclawek.dropboxld.DropboxldApplication.main(DropboxldApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.io.FileNotFoundException: class path resource [src/main/resources/config.properties] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:180)
+	at org.springframework.core.io.support.EncodedResource.getInputStream(EncodedResource.java:159)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:99)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:73)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.loadProperties(PropertiesLoaderUtils.java:59)
+	at org.springframework.core.io.support.ResourcePropertySource.<init>(ResourcePropertySource.java:67)
+	at org.springframework.core.io.support.DefaultPropertySourceFactory.createPropertySource(DefaultPropertySourceFactory.java:37)
+	at org.springframework.context.annotation.ConfigurationClassParser.processPropertySource(ConfigurationClassParser.java:462)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:279)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:198)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:303)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:206)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:174)
+	... 19 common frames omitted
+"2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 25002 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 558 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path to files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.069 seconds (JVM running for 1.499)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 25007 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.alicjawaclawek.dropboxld.DropboxldApplication]; nested exception is java.io.FileNotFoundException: class path resource [src/main/resources/config.properties] cannot be opened because it does not exist
+""2020-09-10 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+"org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.alicjawaclawek.dropboxld.DropboxldApplication]; nested exception is java.io.FileNotFoundException: class path resource [src/main/resources/config.properties] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:188)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:319)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:236)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:280)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:96)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:707)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:533)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.alicjawaclawek.dropboxld.DropboxldApplication.main(DropboxldApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.io.FileNotFoundException: class path resource [src/main/resources/config.properties] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:180)
+	at org.springframework.core.io.support.EncodedResource.getInputStream(EncodedResource.java:159)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:99)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:73)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.loadProperties(PropertiesLoaderUtils.java:59)
+	at org.springframework.core.io.support.ResourcePropertySource.<init>(ResourcePropertySource.java:67)
+	at org.springframework.core.io.support.DefaultPropertySourceFactory.createPropertySource(DefaultPropertySourceFactory.java:37)
+	at org.springframework.context.annotation.ConfigurationClassParser.processPropertySource(ConfigurationClassParser.java:462)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:279)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:198)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:303)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:206)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:174)
+	... 19 common frames omitted
+"2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 25009 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.alicjawaclawek.dropboxld.DropboxldApplication]; nested exception is java.io.FileNotFoundException: class path resource [src/main/resources/config.properties] cannot be opened because it does not exist
+""2020-09-10 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+"org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.alicjawaclawek.dropboxld.DropboxldApplication]; nested exception is java.io.FileNotFoundException: class path resource [src/main/resources/config.properties] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:188)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:319)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:236)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:280)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:96)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:707)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:533)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.alicjawaclawek.dropboxld.DropboxldApplication.main(DropboxldApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.io.FileNotFoundException: class path resource [src/main/resources/config.properties] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:180)
+	at org.springframework.core.io.support.EncodedResource.getInputStream(EncodedResource.java:159)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:99)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:73)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.loadProperties(PropertiesLoaderUtils.java:59)
+	at org.springframework.core.io.support.ResourcePropertySource.<init>(ResourcePropertySource.java:67)
+	at org.springframework.core.io.support.DefaultPropertySourceFactory.createPropertySource(DefaultPropertySourceFactory.java:37)
+	at org.springframework.context.annotation.ConfigurationClassParser.processPropertySource(ConfigurationClassParser.java:462)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:279)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:198)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:303)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:206)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:174)
+	... 19 common frames omitted
+"2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 25011 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.alicjawaclawek.dropboxld.DropboxldApplication]; nested exception is java.io.FileNotFoundException: class path resource [src/main/resources/config.properties] cannot be opened because it does not exist
+""2020-09-10 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+"org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.alicjawaclawek.dropboxld.DropboxldApplication]; nested exception is java.io.FileNotFoundException: class path resource [src/main/resources/config.properties] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:188)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:319)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:236)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:280)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:96)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:707)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:533)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.alicjawaclawek.dropboxld.DropboxldApplication.main(DropboxldApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.io.FileNotFoundException: class path resource [src/main/resources/config.properties] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:180)
+	at org.springframework.core.io.support.EncodedResource.getInputStream(EncodedResource.java:159)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:99)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:73)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.loadProperties(PropertiesLoaderUtils.java:59)
+	at org.springframework.core.io.support.ResourcePropertySource.<init>(ResourcePropertySource.java:67)
+	at org.springframework.core.io.support.DefaultPropertySourceFactory.createPropertySource(DefaultPropertySourceFactory.java:37)
+	at org.springframework.context.annotation.ConfigurationClassParser.processPropertySource(ConfigurationClassParser.java:462)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:279)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:198)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:303)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:206)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:174)
+	... 19 common frames omitted
+"2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 25015 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 692 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path to files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.255 seconds (JVM running for 1.894)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 25022 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 585 ms
+""2020-09-10 [restartedMain] ERROR c.a.d.service.LocalFileService - Cannot get path to files
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.081 seconds (JVM running for 1.527)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 25051 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 640 ms
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.173 seconds (JVM running for 1.865)
+""2020-09-10 [Thread-5] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 25056 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 627 ms
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.274 seconds (JVM running for 2.623)
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 26998 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 585 ms
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.039 seconds (JVM running for 1.674)
+""2020-09-10 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+""2020-09-10 [http-nio-8080-exec-2] INFO  c.a.d.service.LocalFileService - Try to get all files
+""2020-09-10 [http-nio-8080-exec-4] INFO  c.a.d.service.LocalFileService - Try to get all files
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 27057 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 573 ms
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.038 seconds (JVM running for 1.646)
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+""2020-09-10 [http-nio-8080-exec-1] INFO  c.a.d.service.LocalFileService - Try to get all files
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 27061 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 571 ms
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.032 seconds (JVM running for 1.474)
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+""2020-09-10 [http-nio-8080-exec-1] INFO  c.a.d.service.LocalFileService - Try to get all files
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 27125 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 571 ms
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.048 seconds (JVM running for 1.656)
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+""2020-09-10 [http-nio-8080-exec-1] INFO  c.a.d.service.LocalFileService - Try to get all files
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 27153 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 567 ms
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.114 seconds (JVM running for 1.588)
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+""2020-09-10 [http-nio-8080-exec-1] INFO  c.a.d.service.LocalFileService - Try to get all files
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 27155 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 567 ms
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.019 seconds (JVM running for 1.724)
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+""2020-09-10 [http-nio-8080-exec-1] INFO  c.a.d.service.LocalFileService - Try to get all files
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 27159 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 548 ms
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 0.984 seconds (JVM running for 1.432)
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+""2020-09-10 [http-nio-8080-exec-1] INFO  c.a.d.service.LocalFileService - Try to get all files
+""2020-09-10 [http-nio-8080-exec-2] INFO  c.a.d.service.LocalFileService - Deleted file: D1.csv
+""2020-09-10 [http-nio-8080-exec-3] ERROR c.a.d.service.LocalFileService - File not found: D1.csv
+""2020-09-10 [http-nio-8080-exec-5] INFO  c.a.d.service.LocalFileService - Try to get all files
+""2020-09-10 [http-nio-8080-exec-8] INFO  c.a.d.service.LocalFileService - Try to get all files
+""2020-09-10 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Starting DropboxldApplication on MacBook-Pro-Alicja.local with PID 27166 (/Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD/target/classes started by alicja in /Users/alicja/Downloads/JavaSzkolenie/Samouczek/DropboxLD)
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - No active profile set, falling back to default profiles: default
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-10 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 574 ms
+""2020-09-10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-10 [restartedMain] INFO  c.a.dropboxld.DropboxldApplication - Started DropboxldApplication in 1.052 seconds (JVM running for 1.708)
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+""2020-09-10 [http-nio-8080-exec-1] INFO  c.a.d.service.LocalFileService - Try to get all files
+""2020-09-10 [http-nio-8080-exec-2] INFO  c.a.d.service.LocalFileService - Deleted file: ebook_Tasteaway_Podroze_z_dziecmi_Wszystko_co_warto_wiedziec_1559593793_1.pdf
+""2020-09-10 [http-nio-8080-exec-3] INFO  c.a.d.service.LocalFileService - Try to get all files
+"
